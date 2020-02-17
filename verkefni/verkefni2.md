@@ -17,10 +17,10 @@ Arduino, lóðun, 3d hönnun
 
 ## Námsmat
 1. 30% Unnið með lóðun og veróborð.
-  - Allar tengingar milli Arduino og annarra íhluta fara fram í gegn um veróborð.
+   - Allar tengingar milli Arduino og annarra íhluta fara fram í gegn um veróborð.
  
 1. 20% Þrívíddarhönnun og prentun.
-  - Hýsing fyrir teikniborðið útprentuð og nothæf.
+   - Hýsing fyrir teikniborðið útprentuð og nothæf.
 
 1. 50% Kóðiun og virkni.
 
