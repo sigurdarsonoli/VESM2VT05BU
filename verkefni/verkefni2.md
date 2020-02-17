@@ -2,9 +2,7 @@
 Arduino, lóðun, 3d hönnun
 
 ## Lýsing
-Í þessu verkefni á nota Arduino, stýripinna, LED töflu og fl. til að búa til teikniborð (eða annað sniðugt sem þér dettur í hug í samráði við kennara). Síðan á að hanna og prenta út hýsingu fyrir verkið.
-
-Halda skal utan um verkefnið á github.
+Í þessu verkefni á nota Arduino, stýripinna, LED töflu og fl. til að búa til teikniborð (eða annað sniðugt sem þér dettur í hug í samráði við kennara). Síðan á að hanna og prenta út hýsingu fyrir verkið. Halda skal utan um verkefnið á github.
 
 ## Efnislisti
  - Arduino
