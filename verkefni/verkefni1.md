@@ -1,4 +1,4 @@
-## Lóðun
+## Lóðun (10%)
 
 ### Verkþættir
 1. header (LCD skjár og MPU6050) (6%)
