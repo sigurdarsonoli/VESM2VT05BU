@@ -23,13 +23,12 @@ Arduino, lóðun, 3d hönnun
    - Hýsing fyrir teikniborðið útprentuð og nothæf.
 
 1. 50% Kóðiun og virkni.
-
-    20%  - LED fylkið getur sýnt einfaldar myndir (t.d. broskall) 
-    30%  - Hægt er að teikna myndir á LED töfluna með stýripinnanum. 
-    40%  - Hægt er að "stroka út"
-            - Einn punkt með takkanum á stýripinnanum
-            - Alla punkta með sér takka
-    50% - Viðbótarvirkni með samþykki kennara.
+   - 20%  LED fylkið getur sýnt einfaldar myndir (t.d. broskall) 
+   - 30%  Hægt er að teikna myndir á LED töfluna með stýripinnanum. 
+   - 40%  Hægt er að "stroka út"
+           - Einn punkt með takkanum á stýripinnanum
+           - Alla punkta með sér takka
+   - 50%  Viðbótarvirkni með samþykki kennara.
 
 
 ## Skil
