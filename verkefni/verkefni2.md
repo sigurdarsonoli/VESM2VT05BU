@@ -28,7 +28,7 @@ Arduino, lóðun, 3d hönnun
    - 40%  Hægt er að "stroka út"
            - Einn punkt með takkanum á stýripinnanum
            - Alla punkta með sér takka
-   - 50%  Viðbótarvirkni með samþykki kennara.
+   - 50%  Viðbótarvirkni með samþykki kennara. [Dæmi um blikk](https://www.youtube.com/watch?v=vp53WmakxHM&feature=youtu.be)
 
 
 ## Skil
