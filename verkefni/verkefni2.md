@@ -37,6 +37,7 @@ Hlekk á github geymsluna skal skila á Innu.
 Í github geymslunni á að vera:
 - Allur kóði
 - 3d teikningar og model (.stl skráin)
+- ljósmynd af lóðun
 - Myndband af virkni
 - Skýrsla (vefsíða í Wiki á Github) þar sem gerð er grein fyrir helstu hönnunarákvörðunum, erfiðleikum og öðru sem þér dettur í hug.
 
