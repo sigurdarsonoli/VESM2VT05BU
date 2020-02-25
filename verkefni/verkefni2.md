@@ -12,7 +12,7 @@ Arduino, lóðun, 3d hönnun
  - Veróborð (fyrir rafrásina)
  - Lóðbolti og tin
  - Viðnám og aðrir íhlutir
- - _Stjakgisti (e. shift register)_
+<!--  - Stjakgisti (e. shift register) -->
 
 
 ## Námsmat
