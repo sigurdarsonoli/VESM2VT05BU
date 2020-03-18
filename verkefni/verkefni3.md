@@ -2,9 +2,9 @@
 ## Verkefni 3 
 Búðu til í Github Repository vefsíðu (Verkefni 3) í Wiki sem inniheldur eftirfarandi:
 * svör við spurningum (þar sem það á við).
-* tengla á 3D Tinkercad lausnir (þegar það á við).
 * tengla á myndbönd af verklegum verkefnum.
 * tengla á kóðaskrár sem þú notar í verklegum verkefnum.
+* tengla á 3D Tinkercad lausnir (ef það á við).
 
 
 ### 3.1 LCD
