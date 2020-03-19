@@ -1,13 +1,15 @@
 
-## Verkefni 3 
-Búðu til í Github Repository vefsíðu (Verkefni 3) í Wiki sem inniheldur eftirfarandi:
-* svör við spurningum (þar sem það á við).
+## Verkefni 3 15%
+Búðu til í Github Repository vefsíðu (Verkefni 3) í Wiki sem inniheldur eftirfarandi fyrir liði; 3.1, 3.2 og 3.3:
+
+* svör við spurningum.
+* tengla á 3D Tinkercad lausnir.
 * tengla á myndbönd af verklegum verkefnum.
 * tengla á kóðaskrár sem þú notar í verklegum verkefnum.
-* tengla á 3D Tinkercad lausnir (ef það á við).
 
 
-### 3.1 LCD
+
+### 3.1 LCD (5%)
 Fylgdu eftirfarandi tutorial verklega [Character LCDs](https://learn.adafruit.com/character-lcds/overview) að Python & CircuitPython. Kynntu þér vel kóðann og hvað pinnarnir gera.
 **Ath.** LCD með kóðanum er einnig á TinkerCad.
 
@@ -28,14 +30,12 @@ Fylgdu eftirfarandi tutorial verklega [Character LCDs](https://learn.adafruit.co
 * [Arduino Lesson 12. LCD Displays - Part 2](https://learn.adafruit.com/adafruit-arduino-lesson-12-lcd-displays-part-2)
 
 
-### 3.2 (væntanlegt)
+### 3.2 DC motor og Transistors (5%)
+(væntanlegt)
 
-<!--
-### 3.3 Transistors and Relays ?
-væntanlegt
+### 3.3 DC motor og H-Bridge (5%)
+(væntanlegt)
 
-### 3.4 DC motors 
-væntanlegt
 
 ### 3.5 Stepper motors
 væntanlegt
