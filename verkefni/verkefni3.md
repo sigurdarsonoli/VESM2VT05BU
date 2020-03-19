@@ -1,5 +1,5 @@
 
-## Verkefni 3 15%
+## Verkefni 3 (15%)
 Búðu til í Github Repository vefsíðu (Verkefni 3) í Wiki sem inniheldur eftirfarandi fyrir liði; 3.1, 3.2 og 3.3:
 
 * svör við spurningum.
