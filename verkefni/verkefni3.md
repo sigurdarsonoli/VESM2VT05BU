@@ -36,7 +36,3 @@ Fylgdu eftirfarandi tutorial verklega [Character LCDs](https://learn.adafruit.co
 ### 3.3 DC motor og H-Bridge (5%)
 (væntanlegt)
 
-
-### 3.5 Stepper motors
-væntanlegt
--->
