@@ -1,4 +1,4 @@
-# Verkefni 2 (25%)
+# Verkefni 2 (35%)
 Arduino, lóðun, 3d hönnun
 
 ## Lýsing
