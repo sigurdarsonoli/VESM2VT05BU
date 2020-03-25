@@ -59,5 +59,8 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
    1. Verklega
 
 1. Lestu þér til um [L293D H-Bridge](https://maker.pro/custom/projects/all-you-need-to-know-about-l293d) og [mismunandi tegundir mótora](https://learn.adafruit.com/adafruit-motor-selection-guide/types-of-motors)
-   * spurningar (væntanlegt)
+   1. Hvað er H-Bridge?
+   1. Hvað er hægt að gera með L293D?
+   1. Hver er munurinn á L293 or L293D?
+   * fleiri spurningar væntanlegar
 
