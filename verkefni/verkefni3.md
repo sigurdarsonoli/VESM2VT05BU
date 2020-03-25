@@ -8,7 +8,6 @@ Búðu til í Github Repository vefsíðu (Verkefni 3) í Wiki sem inniheldur ef
 * tengla á kóðaskrár sem þú notar í verklegum verkefnum.
 
 
-
 ### 3.1 LCD (5%)
 Fylgdu eftirfarandi tutorial verklega [Character LCDs](https://learn.adafruit.com/character-lcds/overview) að Python & CircuitPython. Kynntu þér vel kóðann og hvað pinnarnir gera.
 **Ath.** LCD með kóðanum er einnig á TinkerCad.
@@ -73,6 +72,9 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
    ```
    1. L293D er með tvo +V pinna (8 and 16), útskýrðu þá.
   
-1. Lestu þér til um [mismunandi tegundir mótora](https://learn.adafruit.com/adafruit-motor-selection-guide/types-of-motors) og svaraðu eftirfarandi spurningum:
+1. Lestu þér til um [mismunandi tegundir mótora](https://learn.adafruit.com/adafruit-motor-selection-guide/types-of-motors) og nefndu i hvaða tilfellum (komdu með dæmi) eftirfarandi mótorgerðir væru notaðar og afhverju:
 
-   1. (væntanlegt)
+      1. Brushed DC Motor.
+      1. Brushless DC motor.
+      1. Stepper motor.
+      
