@@ -62,13 +62,13 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
    1. Hvað er hægt að gera með L293D?
    1. Hver er munurinn á L293 or L293D?
    1. Í lesson 15 er eftirfarandi kóðabútur, útskýrðu hann útfrá H-Bridge
+   ```
    void setMotor(int speed, boolean reverse)
-```
-{
-  analogWrite(enablePin, speed);
-  digitalWrite(in1Pin, ! reverse);
-  digitalWrite(in2Pin, reverse);
-}
-```
+   {
+     analogWrite(enablePin, speed);
+     digitalWrite(in1Pin, ! reverse);
+     digitalWrite(in2Pin, reverse);
+   }
+   ```
    * fleiri spurningar væntanlegar
 
