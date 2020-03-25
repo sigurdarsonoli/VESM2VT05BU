@@ -58,7 +58,8 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
    1. TinkerCad
    1. Verklega
 
-1. Lestu þér til um [L293D H-Bridge](https://maker.pro/custom/projects/all-you-need-to-know-about-l293d) og [mismunandi tegundir mótora](https://learn.adafruit.com/adafruit-motor-selection-guide/types-of-motors)
+1. Lestu þér til um [L293D H-Bridge](https://maker.pro/custom/projects/all-you-need-to-know-about-l293d) og svaraðu eftirfarandi spurningum:
+
    1. Hvað er hægt að gera með L293D?
    1. Hver er munurinn á L293 or L293D?
    1. Í lesson 15 er eftirfarandi kóðabútur, útskýrðu hann útfrá H-Bridge
@@ -70,5 +71,10 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
      digitalWrite(in2Pin, reverse);
    }
    ```
-   * fleiri spurningar væntanlegar
+   1. L293D er með tvo +V pinna (8 and 16), útskýrðu þá.
+  
+1. Lestu þér til um [mismunandi tegundir mótora](https://learn.adafruit.com/adafruit-motor-selection-guide/types-of-motors) og svaraðu eftirfarandi spurningum:
 
+   1. (væntanlegt)
+   1. (væntanlegt)
+   1. (væntanlegt)
