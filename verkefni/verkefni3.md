@@ -76,5 +76,3 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
 1. Lestu þér til um [mismunandi tegundir mótora](https://learn.adafruit.com/adafruit-motor-selection-guide/types-of-motors) og svaraðu eftirfarandi spurningum:
 
    1. (væntanlegt)
-   1. (væntanlegt)
-   1. (væntanlegt)
