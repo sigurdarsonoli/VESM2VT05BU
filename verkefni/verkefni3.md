@@ -57,7 +57,7 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
 1. Fylgdu [Lesson 15. DC Motor Reversing](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing) og settu hann upp í:
    1. TinkerCad
    1. Verklega
-  
-1. Lestu þér til um [mismunandi tegundir mótora](https://learn.adafruit.com/adafruit-motor-selection-guide/types-of-motors)
+
+1. Lestu þér til um [L293D H-Bridge](https://maker.pro/custom/projects/all-you-need-to-know-about-l293d) og [mismunandi tegundir mótora](https://learn.adafruit.com/adafruit-motor-selection-guide/types-of-motors)
    * spurningar (væntanlegt)
 
