@@ -1,4 +1,4 @@
-## Verkefni 4 (5%)
+### Verkefni 4 (5%)
 **Að Láta tvo Arduino tala saman með I2C**
  
 1. Lestu greinina [How to use I2C in Arduino: Communication between two Arduino Boards](https://circuitdigest.com/microcontroller-projects/arduino-i2c-tutorial-communication-between-two-arduino) og settu upp í Tinkercad.
