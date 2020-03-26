@@ -15,8 +15,8 @@ Athuga, það þarf að bæta við tveimur línum í kóðann sem er í greininn
 
 1. Fáðu allt til að virka og svaraðu svo eftirfarandi spurningum:
  
- 1. Hvað er átt við með samstilltum (e. synchronous) samskiptastaðli?
- 2. Hver er munurinn á SDA og SCL?
- 3. Í Master kóðanum er línan ```Wire.begin();``` og í Slave kóðanum er sambærileg lína ```Wire.begin(8);```.
- 1. Hvað þýðir talan 8 í Slave kóðanum?
- 2. Hvað þýðir að það er engin tala í Master kóðanum?
+  1. Hvað er átt við með samstilltum (e. synchronous) samskiptastaðli?
+  2. Hver er munurinn á SDA og SCL?
+  3. Í Master kóðanum er línan `Wire.begin();` og í Slave kóðanum er sambærileg lína `Wire.begin(8);`.
+    1. Hvað þýðir talan 8 í Slave kóðanum?
+    2. Hvað þýðir að það er engin tala í Master kóðanum?
