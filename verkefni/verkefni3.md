@@ -74,7 +74,7 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
   
 1. Lestu þér til um [mismunandi tegundir mótora](https://learn.adafruit.com/adafruit-motor-selection-guide/types-of-motors) og horfðu á þessi [tvö myndbönd](https://www.youtube.com/playlist?list=PLRIGIzu0Z7KlYY6FyZ0_Y0ZmVFyAvtDO0).
 
-Nefndu i hvaða tilfellum (komdu með dæmi) eftirfarandi mótorgerðir væru notaðar og afhverju:
+  Nefndu i hvaða tilfellum (komdu með dæmi) eftirfarandi mótorgerðir væru notaðar og afhverju:
 
   1. Brushed DC Motor.
   2. Brushless DC motor.
