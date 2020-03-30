@@ -2,9 +2,7 @@
 
 **Að Láta tvo Arduino tala saman með I2C**
 
-1. Skoðaðu eftirfarandi skýringarmyndband og tutorial [I2C Part 1 - Using 2 Arduinos](https://www.youtube.com/watch?v=PnG4fO5_vU4&list=PLWNDWPAClRVpetVqItj-TC0vsflLzN9-8&index=2&t=355s). Settu upp bæði kóðadæmin úr myndbandinu. Hér er [vefgreinin](https://dronebotworkshop.com/i2c-arduino-arduino/) með kóðanum. <br><br>
-
-**Athuga**, það þarf að bæta við _int howMany_ í kóðann:  `void receiveEvent(int howMany)`
+1. Skoðaðu eftirfarandi skýringarmyndband og tutorial [I2C Part 1 - Using 2 Arduinos](https://www.youtube.com/watch?v=PnG4fO5_vU4&list=PLWNDWPAClRVpetVqItj-TC0vsflLzN9-8&index=2&t=355s). Settu upp bæði kóðadæmin úr myndbandinu. Hér er [vefgreinin](https://dronebotworkshop.com/i2c-arduino-arduino/) með kóðanum. **Athuga**, það þarf að bæta við _int howMany_ í kóðann:  `void receiveEvent(int howMany)`
  
 2. Lestu greinina [How to use I2C in Arduino: Communication between two Arduino Boards](https://circuitdigest.com/microcontroller-projects/arduino-i2c-tutorial-communication-between-two-arduino) og settu upp í Tinkercad. <br>
 **Athuga**, það þarf að bæta við tveimur línum í kóðann sem er í greininni, línurnar eiga að koma á milli `byte SlaveReceived = 0` og `void setup()` ofarlega í kóðanum fyrir Slave (þarf ekki í kóðann fyrir Master):
