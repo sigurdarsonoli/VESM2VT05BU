@@ -14,7 +14,7 @@ Athuga, það þarf að bæta við tveimur línum í kóðann sem er í greininn
   void setup() // <--- Þessi lína er þegar til staðar.
   ```
 
-1. Fáðu allt til að virka og svaraðu svo eftirfarandi spurningum:
+2. Fáðu allt til að virka og svaraðu svo eftirfarandi spurningum:
  
    1. Hvað er átt við með samstilltum (e. synchronous) samskiptastaðli?
    2. Hver er munurinn á SDA og SCL?
@@ -22,4 +22,4 @@ Athuga, það þarf að bæta við tveimur línum í kóðann sem er í greininn
       1. Hvað þýðir talan 8 í Slave kóðanum?
       2. Hvað þýðir að það er engin tala í Master kóðanum?
 
-1. (Í vinnslu)
+3. (Í vinnslu)
