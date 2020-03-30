@@ -22,4 +22,4 @@ Athuga, það þarf að bæta við tveimur línum í kóðann sem er í greininn
       1. Hvað þýðir talan 8 í Slave kóðanum?
       2. Hvað þýðir að það er engin tala í Master kóðanum?
 
-4. (Í vinnslu)
+4. (Væntanlegt!)
