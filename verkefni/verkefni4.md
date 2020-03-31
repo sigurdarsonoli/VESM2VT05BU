@@ -26,7 +26,7 @@
 
 4. Stafrænt hallamál. Horfðu á [Build a Digital Level with MPU-6050 and Arduino](https://www.youtube.com/watch?v=XCyRXMvVSCw) myndbandið til enda. Fylgdu eftir **fyrri** tilrauninni sem er í myndbandinu og settu upp verklega. Sjá einnig [vefgrein](https://dronebotworkshop.com/mpu-6050-level/)
 
-5. Valkvæmt (ekki til einkunna). Skoðaðu [MPU6050 adn 3D Simulation With Processing](https://www.instructables.com/id/Arduino-MPU6050-GY521-6-Axis-Accelerometer-Gyro-3D/)
+5. Valkvæmt (ekki til einkunna). Skoðaðu [MPU6050 and 3D Simulation With Processing](https://www.instructables.com/id/Arduino-MPU6050-GY521-6-Axis-Accelerometer-Gyro-3D/)
 
 ### Námsmat og skil
 Gefið er heilt fyrir fullnægjandi lausnir og svör, hálft ef ábótavant eða svör vanta.
