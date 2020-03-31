@@ -1,4 +1,4 @@
-### Verkefni 4 I2C (5%)
+### Verkefni 4 - I2C (5%)
 
 1. Skoðaðu eftirfarandi skýringarmyndband og tutorial [I2C Part 1 - Using 2 Arduinos](https://www.youtube.com/watch?v=PnG4fO5_vU4&list=PLWNDWPAClRVpetVqItj-TC0vsflLzN9-8&index=2&t=355s). Settu upp í Tinkercad bæði sýnidæmin úr myndbandinu. Hér er [vefgreinin](https://dronebotworkshop.com/i2c-arduino-arduino/) sem inniheldur m.a. kóðann. 
 
