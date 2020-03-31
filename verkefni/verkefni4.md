@@ -2,7 +2,7 @@
 
 **Að Láta tvo Arduino tala saman með I2C**
 
-1. Skoðaðu eftirfarandi skýringarmyndband og tutorial [I2C Part 1 - Using 2 Arduinos](https://www.youtube.com/watch?v=PnG4fO5_vU4&list=PLWNDWPAClRVpetVqItj-TC0vsflLzN9-8&index=2&t=355s). Settu upp í Tinkercad bæði sýnidæmin úr myndbandinu. Hér er [vefgreinin](https://dronebotworkshop.com/i2c-arduino-arduino/) með kóðanum. 
+1. Skoðaðu eftirfarandi skýringarmyndband og tutorial [I2C Part 1 - Using 2 Arduinos](https://www.youtube.com/watch?v=PnG4fO5_vU4&list=PLWNDWPAClRVpetVqItj-TC0vsflLzN9-8&index=2&t=355s). Settu upp í Tinkercad bæði sýnidæmin úr myndbandinu. Hér er [vefgreinin](https://dronebotworkshop.com/i2c-arduino-arduino/) sem inniheldur m.a. kóðann. 
 
    **Athuga**, það þarf að bæta við _int howMany_ í kóðann:  `void receiveEvent(int howMany)`
  
@@ -17,7 +17,7 @@
   void setup() // <--- Þessi lína er þegar til staðar.
 ```
 
-3. Fáðu allt til að virka og svaraðu svo eftirfarandi spurningum:
+3. Svaraðu eftirfarandi spurningum:
  
    1. Hvað er átt við með samstilltum (e. synchronous) samskiptastaðli?
    2. Hver er munurinn á SDA og SCL?
@@ -25,4 +25,15 @@
       1. Hvað þýðir talan 8 í Slave kóðanum?
       2. Hvað þýðir að það er engin tala í Master kóðanum?
 
-4. (Væntanlegt!)
+
+4. Stafrænt hallamál. Horfðu á [Build a Digital Level with MPU-6050 and Arduino](https://www.youtube.com/watch?v=XCyRXMvVSCw) myndbandið til enda. Fylgdu eftir fyrri tilrauninni sem er í myndbandinu og settu upp verklega. Sjá einnig [vefgrein](https://dronebotworkshop.com/mpu-6050-level/)
+
+### Námsmat og skil
+Gefið er heilt fyrir fullnægjandi lausnir og svör, hálft ef ábótavant eða svör vanta.
+Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
+
+1. Tinkercad tengla á báðar lausnir úr lið 1. 
+2. Tinkercad tengil á lausn úr lið 2. 
+3. Svör við spurningum úr lið 3.
+4. Tengil á myndband af virkni úr lið 4.
+
