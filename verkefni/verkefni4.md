@@ -24,10 +24,11 @@
       2. Hvað þýðir að það er engin tala í Master kóðanum?
 
 
-4. Stafrænt hallamál. Horfðu á [Build a Digital Level with MPU-6050 and Arduino](https://www.youtube.com/watch?v=XCyRXMvVSCw) myndbandið til enda. Fylgdu eftir fyrri tilrauninni sem er í myndbandinu og settu upp verklega. Sjá einnig [vefgrein](https://dronebotworkshop.com/mpu-6050-level/)
+4. Stafrænt hallamál. Horfðu á [Build a Digital Level with MPU-6050 and Arduino](https://www.youtube.com/watch?v=XCyRXMvVSCw) myndbandið til enda. Fylgdu eftir **fyrri** tilrauninni sem er í myndbandinu og settu upp verklega. Sjá einnig [vefgrein](https://dronebotworkshop.com/mpu-6050-level/)
 
 ### Námsmat og skil
 Gefið er heilt fyrir fullnægjandi lausnir og svör, hálft ef ábótavant eða svör vanta.
+
 Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
 
 1. Tinkercad tengla á báðar lausnir úr lið 1. 
