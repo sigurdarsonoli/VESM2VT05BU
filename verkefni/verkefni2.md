@@ -19,8 +19,8 @@ Arduino, lóðun, 3d hönnun
 1. 30% Unnið með lóðun og veróborð.
    - 30% Allar tengingar milli Arduino og annarra íhluta fara fram í gegn um veróborð sem er vel útfært, lóðun er til fyrirmyndar.
    - 25% Tengingar, lóðun eða veróborð útfærsla er ábótavant.
-   - 10% Tvennt af eftirtöldu er ábótavant; tengingar, lóðun, veróborð.
-   - 15% Tengingar, lóðun og veróborð er ábótavant.
+   - 15% Tvennt af eftirtöldu er ábótavant; tengingar, lóðun, veróborð.
+   - 10% Tengingar, lóðun og veróborð er ábótavant.
    -  5% Tengingar, veróborð og lóðun er stórlega ábótavant.
    -  0% Vantar. 
  
