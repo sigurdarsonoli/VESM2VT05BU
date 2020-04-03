@@ -20,7 +20,13 @@ Arduino, lóðun, 3d hönnun
    - Allar tengingar milli Arduino og annarra íhluta fara fram í gegn um veróborð.
  
 1. 20% Þrívíddarhönnun og prentun.
-   - Hýsing fyrir teikniborðið útprentuð og nothæf.
+   **Einkunn:**
+     - 10 Hýsing fyrir teikniborð er mjög vel útfært.
+     -  8 Hýsing fyrir teikniborð er vel útfært, en getur verið betri mtt. pláss og lögun.
+     -  6 Hýsing fyrir teikniborðið er nothæft, sést ekki í op eða víra.
+     -  4 Hýsing fyrir teikniborðið er nothæft en það sést í víra eða op sem þurfa ekki að vera.
+     -  2 Stórlega ábótavant.
+     -  0 Vantar. 
 
 1. 50% Kóðiun og virkni.
    - 20%  LED fylkið getur sýnt einfaldar myndir (t.d. broskall) 
