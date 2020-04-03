@@ -17,16 +17,21 @@ Arduino, lóðun, 3d hönnun
 
 ## Námsmat
 1. 30% Unnið með lóðun og veróborð.
-   - Allar tengingar milli Arduino og annarra íhluta fara fram í gegn um veróborð.
+   - 30% Allar tengingar milli Arduino og annarra íhluta fara fram í gegn um veróborð sem er vel útfært, lóðun er til fyrirmyndar.
+   - 25% Tengingar, lóðun eða veróborð útfærsla er ábótavant.
+   - 10% Tvennt af eftirtöldu er ábótavant; tengingar, lóðun, veróborð.
+   - 15% Tengingar, lóðun og veróborð er ábótavant.
+   -  5% Tengingar, veróborð og lóðun er stórlega ábótavant.
+   -  0% Vantar. 
  
 1. 20% Þrívíddarhönnun og prentun.<br>
    **Einkunn:**
-     - 10 Hýsing fyrir teikniborð er mjög vel útfært.
-     -  8 Hýsing fyrir teikniborð er vel útfært, en getur verið betri mtt. pláss og lögun.
-     -  6 Hýsing fyrir teikniborðið er nothæft, sést ekki í op eða víra.
-     -  4 Hýsing fyrir teikniborðið er nothæft en það sést í víra eða op sem þurfa ekki að vera.
-     -  2 Stórlega ábótavant.
-     -  0 Vantar. 
+     - 20% Hýsing fyrir teikniborð er mjög vel útfært.
+     - 16% Hýsing fyrir teikniborð er vel útfært, en getur verið betri mtt. pláss og lögun.
+     - 12% Hýsing fyrir teikniborðið er nothæft, sést ekki í op eða víra.
+     -  8% Hýsing fyrir teikniborðið er nothæft en það sést í víra eða op sem þurfa ekki að vera.
+     -  4% Stórlega ábótavant.
+     -  0% Vantar. 
 
 1. 50% Kóðiun og virkni.
    - 20%  LED fylkið getur sýnt einfaldar myndir (t.d. broskall) 
