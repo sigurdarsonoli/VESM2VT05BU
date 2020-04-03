@@ -25,7 +25,7 @@ Arduino, lóðun, 3d hönnun
    -  0% Vantar. 
  
 1. 20% Þrívíddarhönnun og prentun.<br>
-   **Einkunn:**
+  
      - 20% Hýsing fyrir teikniborð er mjög vel útfært.
      - 16% Hýsing fyrir teikniborð er vel útfært, en getur verið betri mtt. pláss og lögun.
      - 12% Hýsing fyrir teikniborðið er nothæft, sést ekki í op eða víra.
