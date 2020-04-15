@@ -33,7 +33,7 @@ Arduino, lóðun, 3d hönnun
      -  4% Stórlega ábótavant.
      -  0% Vantar. 
 
-1. 50% Kóðiun og virkni.
+1. 50% Kóðun og virkni.
    - 20%  LED fylkið getur sýnt einfaldar myndir (t.d. broskall) 
    - 30%  Hægt er að teikna myndir á LED töfluna með stýripinnanum. 
    - 40%  Hægt er að "stroka út"
