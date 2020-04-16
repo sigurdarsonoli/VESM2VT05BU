@@ -24,7 +24,7 @@ Arduino, lóðun, 3d hönnun
    -  5% Tengingar, veróborð og lóðun er stórlega ábótavant.
    -  0% Vantar. 
  
-1. 20% Þrívíddarhönnun og prentun.<br>
+1. 20% Þrívíddarhönnun.<br>
   
      - 20% Hýsing fyrir teikniborð er mjög vel útfært.
      - 16% Hýsing fyrir teikniborð er vel útfært, en getur verið betri mtt. pláss og lögun.
