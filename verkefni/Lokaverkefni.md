@@ -15,7 +15,8 @@ Snúrustýrður bíll með fjarstýringu.
 - Slatti af snúrum og viðnámum
 - Annað sem getur verið gagnlegt að hafa
 
-## Lýsing
+
+### Samskipti
 Bíllinn og fjarstýringin tala saman með I2C staðlinum.
 
 ### Bíllinn
