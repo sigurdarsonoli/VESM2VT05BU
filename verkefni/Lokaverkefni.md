@@ -1,4 +1,3 @@
-# VESM2VT - Vor 2020
 ## Lokaverkefni (35%) - Snúrustýrður bíll með fjarstýringu
 Í þessu verkefni áttu að nota Tinkercad til að gera frumgerð af fjarstýrðum bíl og fjarstýringu fyrir hann. Í þessari frumgerð notar þú að vísu snúru til að tengja saman bílinn og fjarstýringuna.
 
