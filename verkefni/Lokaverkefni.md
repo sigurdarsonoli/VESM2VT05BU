@@ -1,7 +1,7 @@
 ## Lokaverkefni (35%) 
 Snúrustýrður bíll með fjarstýringu.
 
-Í þessu verkefni áttu að nota Tinkercad til að gera frumgerð af fjarstýrðum bíl og fjarstýringu fyrir hann. Í þessari frumgerð notar þú að vísu snúru til að tengja saman bílinn og fjarstýringuna.
+Í þessu einstaklingsverkefni áttu að nota Tinkercad til að gera frumgerð af fjarstýrðum bíl og fjarstýringu fyrir hann. Í þessari frumgerð notar þú að vísu snúru til að tengja saman bílinn og fjarstýringuna. Gert er ráð fyrir sjálstæðum vinnubrögðum í þessu lokaverkefni.
 
 ## Efnislisti
 - 2 Arduino tölvur
@@ -25,7 +25,7 @@ Bíllin notar aðra Arduino tölvuna til að stjórna móturunum. DC mótorarnir
 Hin Arduino tölvan er notuð sem fjarstýring. Við hana þarf að tengja 4 takka (hægri/vinstri/áfram/bakka). Fjarstýringin er líka með LCD skjá en á honum á að birta fjarlægðina sem er mæld með Ultrasonic skynjaranum á bílnum.
 
 ### Hönnun 
-Notaðu TinkerCad og/eða Inkscape til að hanna og útfæra umgjörð fyrir fjarstýringuna og bílinn (e. body). Frjáls útfærsla.
+Notaðu TinkerCad og/eða Inkscape til að hanna og útfæra umgjörð fyrir fjarstýringuna og bílinn (e. body). Það þarf m.a að hanna DC motor og að huga að rými fyrir íhluti sem og tengingu motora við dekk. Það þarf þó ekki að hanna dekkin sjálf (má nota eigin). Frjáls útfærsla að öðru leyti.
 
 ## Verkefnaskil
 Haltu utan um verkefnið á github, þar á að vera:
