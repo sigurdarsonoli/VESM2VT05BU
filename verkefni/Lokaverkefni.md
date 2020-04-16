@@ -26,7 +26,7 @@ Bíllin notar aðra Arduino tölvuna til að stjórna móturunum. DC mótorarnir
 Hin Arduino tölvan er notuð sem fjarstýring. Við hana þarf að tengja 4 takka (hægri/vinstri/áfram/bakka). Fjarstýringin er líka með LCD skjá en á honum á að birta fjarlægðina sem er mæld með Ultrasonic skynjaranum á bílnum.
 
 ### Hönnun 
-Notaðu TinkerCad og/eða Inkscape til að hanna og útfæra umgjörð fyrir fjarstýringuna og bílinn (e. body). Það þarf m.a að hanna DC mótorm, huga að að rými fyrir íhluti og tengingar. Það þarf ekki að hanna dekkin sjálf (það má gera ráð fyrir að þau séu tilbúin). Frjáls útfærsla að öðru leyti.
+Notaðu TinkerCad og/eða Inkscape til að hanna og útfæra umgjörð fyrir fjarstýringuna og bílinn (e. body). Það þarf m.a að hanna DC mótor, huga að að rými fyrir íhluti og tengingar. Það þarf ekki að hanna dekkin sjálf (það má gera ráð fyrir að þau séu tilbúin). Frjáls útfærsla að öðru leyti.
 
 ## Verkefnaskil
 Haltu utan um verkefnið á github, þar á að vera:
