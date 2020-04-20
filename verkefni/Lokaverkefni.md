@@ -9,7 +9,7 @@ Snúrustýrður bíll með fjarstýringu.
 - 2 Servo mótorar
 - LCD skjár
 - Ultrasonic skynjari
-- 4 Takkar 
+- 4 Takkar eða 2 stilliviðnám
 - H-Bridge
 - 2 breadboard
 - Slatti af snúrum og viðnámum
