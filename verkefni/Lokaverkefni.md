@@ -38,9 +38,9 @@ Haltu utan um verkefnið á github, þar á að vera:
 
 ## Námsmat
 1. Uppsetning í Tinkercad (Circuits) (20%)
-   - 0% Uppsetning stórlega gölluð (t.d. vantar einhverja íhluti) eða hana vantar.
-   - 10% Uppsetningin virkar en er ósnyrtileg og erfitt að átta sig á hvað tengist hverju. Mikilvæga hluti vantar í uppsetninguna.
-   - 20% Uppsetningin er snyrtileg og skýr til aflestrar. Notaðir eru mismunandi litir á víra og skynsamleg notkun á beygjum á þeim.
+  - 0% Uppsetning stórlega gölluð (t.d. vantar einhverja íhluti) eða hana vantar.
+  - 10% Uppsetningin virkar en er ósnyrtileg og erfitt að átta sig á hvað tengist hverju. Mikilvæga hluti vantar í uppsetninguna.
+  - 20% Uppsetningin er snyrtileg og skýr til aflestrar. Notaðir eru mismunandi litir á víra og skynsamleg notkun á beygjum á þeim.
 
 2. Kóði og virkni (50%)
    
