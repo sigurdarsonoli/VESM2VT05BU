@@ -71,6 +71,7 @@ Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
 1. [LCD1602 (þarf að lóða)](https://www.arduino.cc/en/Tutorial/HelloWorld)
 
 1. [Shift register](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds/parts)
+   Sjá einnig Integrated Circuits: https://www.instructables.com/lesson/Integrated-Circuits-1/
 
 1. [Lesson 15: JOYSTICK](https://github.com/GunnarThorunnarson/VESM2VT05BU/tree/master/PowerSupplyLearningKitforUNO/Lesson%2015%20joystick/joystick_module)
 
