@@ -54,6 +54,11 @@ Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
 
 
 ## Verkefni 1 - Í Vinnslu - 
+1. [LEDs (blink og brauðbretti)](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/overview)
+
+1. [RGB LEDs](https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds)
+
+1. [All About LEDs](https://learn.adafruit.com/all-about-leds/overview)
 
 1. [Project 13: Touchy-Feely Lamp (snertiskynjari með álpappír)](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ;collectionId=OMOZACHJ9IR8LRE)
 
