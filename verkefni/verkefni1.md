@@ -1,4 +1,4 @@
-# Verkefni 1
+# Verkefni 1 - Í Vinnslu - 
 
 1. [Project 13: Touchy-Feely Lamp (snertiskynjari með álpappír)](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ;collectionId=OMOZACHJ9IR8LRE)
 
