@@ -1,5 +1,5 @@
 ## Servo motor
-SJá verkefni frá haust 19 VESM1..
+SJá verkefni frá haust 19 VESM1.. á tinkercad og adafruit.
 
 ## Stepper motors
 * [Stepper Motor 5V 4-Phase 5-Wire & ULN2003 Driver Board for Arduino
