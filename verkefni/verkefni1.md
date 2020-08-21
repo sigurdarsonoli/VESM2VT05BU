@@ -33,21 +33,25 @@
    1. _Breyttu kóðanum þannig að með að ýta á takkann þá ser slökkt á LED ljósi sem myndi annars lýsa stöðugt._
 
 7. Potentiometer (Analog Input) 
-
+   1. _Instead of using the sensorValue to affect timing, can you figure out a way to make it affect the LED's brightness instead?_
+   
 8. Using the Serial Monitor
    1. _Hvað þýðir 9600 baud í Serial.begin(9600) og hvað gerist ef þú breytir gildinu?_
+   
+9. PIR Motion Sensor (Digital Input)
+   1. _Can you replace the LED with a servo motor, and code up a program to wave the servo when the sensor is triggered?_
+   1. _Try swapping out your PIR motion sensor for other digital inputs such as a pushbutton or tilt switch._
+   
+10. Photoresistor (Analog Input) 
 
-9. Photoresistor (Analog Input) 
+11. Ultrasonic Distance Sensor 
+    1. _Make a proximity alarm by adding a piezo buzzer that turns on when all three LEDs are lit up (closest distance)._
 
-10. Ultrasonic Distance Sensor 
-    1. _Breyttu kóðanum þannig að hann vinnur eingöngu með sentimetra._
-
-11. Project 6: Light Theremin (hátalari og ljósviðnám) 
 
 <!--
-
+Ekki Haust 2020
+1. Project 6: Light Theremin (hátalari og ljósviðnám) 
 1. [Project 13: Touchy-Feely Lamp (snertiskynjari með álpappír)](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ;collectionId=OMOZACHJ9IR8LRE)
-
 -->
 
 ## Námsmat og skil
