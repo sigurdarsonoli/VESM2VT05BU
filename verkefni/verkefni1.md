@@ -24,24 +24,23 @@
 
 1. [Project 13: Touchy-Feely Lamp (snertiskynjari með álpappír)](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ;collectionId=OMOZACHJ9IR8LRE)
 
-
-2. Pushbutton (Digital Input) í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**4%**)
+1. Pushbutton (Digital Input) í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**4%**)
 
    1. _Breyttu kóðanum þannig að með að ýta á takkann þá ser slökkt á LED ljósi sem myndi annars lýsa stöðugt._
 
-3. Potentiometer (Analog Input) í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**4%**)
+1. Potentiometer (Analog Input) í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**4%**)
 
    1. _Hvað gerist ef við tengjum digital skynjara við analog pinna?_
 
-4. Using the Serial Monitor í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**4%**)
+1. Using the Serial Monitor í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**4%**)
    1. _Hvað þýðir 9600 baud í Serial.begin(9600) og hvað gerist ef þú breytir gildinu?_
 
-5. Photoresistor (Analog Input) í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**4%**)
+1. Photoresistor (Analog Input) í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**4%**)
 
-6. Ultrasonic Distance Sensor í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**5%**)
+1. Ultrasonic Distance Sensor í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**5%**)
     1. _Breyttu kóðanum þannig að hann vinnur eingöngu með sentimetra._
 
-7.  Project 6: Light Theremin (hátalari og ljósviðnám) í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**5%**)
+1.  Project 6: Light Theremin (hátalari og ljósviðnám) í [TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) (**5%**)
 
 
 
