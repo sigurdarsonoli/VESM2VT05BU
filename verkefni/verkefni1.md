@@ -16,6 +16,7 @@
 ### Halló heimur
 1. [Ladyada´s lesson 1: Blikkandi ljós](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-1) 
 
+    1. [Nánar um Arduino forritunarmálið](https://github.com/GunnarThorunnarson/VESM2VT05BU/wiki/Arduino)
 
 ### LEDs
 1. [Lestu: All About LEDs (KVL og Ohm'slögmál, að lesa datasheets)](https://learn.adafruit.com/all-about-leds/overview))
