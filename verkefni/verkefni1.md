@@ -50,12 +50,6 @@
     1. _Make a proximity alarm by adding a piezo buzzer that turns on when all three LEDs are lit up (closest distance)._
 
 
-<!--
-Ekki Haust 2020
-1. Project 6: Light Theremin (hátalari og ljósviðnám) 
-1. [Project 13: Touchy-Feely Lamp (snertiskynjari með álpappír)](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ;collectionId=OMOZACHJ9IR8LRE)
--->
-
 ## Námsmat og skil
 Gefið er heilt fyrir fullnægjandi lausn og svör, hálft ef ábótavant eða svör vanta.
 Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
@@ -64,13 +58,19 @@ Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
 - kóði. 
 - Svör við spurningum.
 
-
+-->
 
 <!--
+
 - Settu upp í TinkerCad 
 1. TinkerCad tengla á lausnir (muna að hafa public).
 2. [Skjámyndbandsupptöku](https://screencast-o-matic.com) af virkni í TinkerCad.
 
--->
+
+
+Ekki Haust 2020
+1. Project 6: Light Theremin (hátalari og ljósviðnám) 
+1. [Project 13: Touchy-Feely Lamp (snertiskynjari með álpappír)](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ;collectionId=OMOZACHJ9IR8LRE)
 
 -->
+
