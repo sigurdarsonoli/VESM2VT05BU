@@ -6,18 +6,18 @@
   - Svaraðu spurningum þar sem það á við.
 
 
-## Hardware
+### Hardware
 1. [Ladyada´s lesson 0: Vélbúnaður](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0) og svaraðu eftirfarandi spurningum:
 
    1. Að hvaða leyti er gagnapinni 13 sérstakur í Arduino Uno?
    1. Hver er munurinn á digtial og analog input pinnum?
    1. Hjá sumum digital pinnum er tilda merki (~) fyrir PWM. Hvað er e. Pulse Width Modulation (PWM) og fyrir hvað er það notað?
 
-## Halló heimur
+### Halló heimur
 1. [Ladyada´s lesson 1: Blikkandi ljós](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-1) 
 
 
-## LEDs
+### LEDs
 1. [Lestu: All About LEDs (KVL og Ohm'slögmál, að lesa datasheets)](https://learn.adafruit.com/all-about-leds/overview))
 
 1. [Ladyada´s lesson 2: LEDs (viðnám, leds og brauðbretti)](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/overview)
@@ -25,7 +25,7 @@
 1. [Ladyada´s lesson 3: RGB LEDs, PWM og HEX](https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds)
 
 
-## Skynjarar
+### Skynjarar
 
 1. [Project 13: Touchy-Feely Lamp (snertiskynjari með álpappír)](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ;collectionId=OMOZACHJ9IR8LRE)
 
@@ -48,7 +48,7 @@
 
 
 
-### Námsmat og skil
+## Námsmat og skil
 Gefið er heilt fyrir fullnægjandi lausn og svör, hálft ef ábótavant eða svör vanta.
 Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
 
