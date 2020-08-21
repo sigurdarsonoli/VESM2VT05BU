@@ -27,26 +27,22 @@
 5. [Ladyada´s lesson 3: RGB LEDs, PWM og HEX](https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds)
 
 
-**TinkerCad Projects**
-- https://www.tinkercad.com/learn/circuits/projects
+**TinkerCad Projects** _https://www.tinkercad.com/learn/circuits/projects_
 
 6. Pushbutton (Digital Input) 
-
    1. _Breyttu kóðanum þannig að með að ýta á takkann þá ser slökkt á LED ljósi sem myndi annars lýsa stöðugt._
 
 7. Potentiometer (Analog Input) 
-   1. _Hvað gerist ef við tengjum digital skynjara við analog pinna?_
 
 8. Using the Serial Monitor
    1. _Hvað þýðir 9600 baud í Serial.begin(9600) og hvað gerist ef þú breytir gildinu?_
 
+9. Photoresistor (Analog Input) 
 
-10. Photoresistor (Analog Input) 
-
-11. Ultrasonic Distance Sensor 
+10. Ultrasonic Distance Sensor 
     1. _Breyttu kóðanum þannig að hann vinnur eingöngu með sentimetra._
 
-12. Project 6: Light Theremin (hátalari og ljósviðnám) 
+11. Project 6: Light Theremin (hátalari og ljósviðnám) 
 
 <!--
 
