@@ -6,6 +6,7 @@
   - Svaraðu spurningum þar sem það á við.
 
 **Hardware**
+
 1. [Ladyada´s lesson 0: Vélbúnaður](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0) og svaraðu eftirfarandi spurningum:
 
    1. Að hvaða leyti er gagnapinni 13 sérstakur í Arduino Uno?
@@ -13,11 +14,12 @@
    1. Hjá sumum digital pinnum er tilda merki (~) fyrir PWM. Hvað er e. Pulse Width Modulation (PWM) og fyrir hvað er það notað?
 
 **Halló heimur**
+
 2. [Ladyada´s lesson 1: Blikkandi ljós, Halló heimur ](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-1) 
 
-    1. [Nánar um Arduino forritunarmálið](https://github.com/GunnarThorunnarson/VESM2VT05BU/wiki/Arduino)
-
+  
 **LEDs**
+
 3. [Lestu: All About LEDs (KVL og Ohm'slögmál, að lesa datasheets)](https://learn.adafruit.com/all-about-leds/overview))
 
 4. [Ladyada´s lesson 2: LEDs (viðnám, leds og brauðbretti)](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/overview)
