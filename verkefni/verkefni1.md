@@ -1,6 +1,8 @@
 # Verkefni 1 **Í vinnslu**
 - Námsmat: 10%
 - Tími: 2 vikur
+
+<!--
 - Gerðu eftirfarandi verkefni (e. tutorials):
   - Settu upp verklega með brauðbretti og íhlutum
   - Svaraðu spurningum þar sem það á við.
@@ -71,4 +73,4 @@ Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
 
 -->
 
-
+-->
