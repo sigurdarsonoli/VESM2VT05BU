@@ -27,7 +27,8 @@
 5. [Ladyada´s lesson 3: RGB LEDs, PWM og HEX](https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds)
 
 
-[TinkerCad Projects](https://www.tinkercad.com/learn/circuits/projects) 
+**TinkerCad Projects**
+- https://www.tinkercad.com/learn/circuits/projects
 
 6. Pushbutton (Digital Input) 
 
