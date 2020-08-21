@@ -5,7 +5,6 @@
 <!--
 ## Gerðu eftirfarandi verkefni (e. tutorials):
 
-- Settu upp í TinkerCad 
 - Settu upp verklega með brauðbretti og íhlutum
 - Svaraðu spurningum þar sem það á við.
 
@@ -50,10 +49,18 @@
 Gefið er heilt fyrir fullnægjandi lausn og svör, hálft ef ábótavant eða svör vanta.
 Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
 
+- Myndbönd af virkni úr verklegum tilraunum.
+- kóði. 
+- Svör við spurningum.
+
+-->
+
+<!--
+- Settu upp í TinkerCad 
 1. TinkerCad tengla á lausnir (muna að hafa public).
 2. [Skjámyndbandsupptöku](https://screencast-o-matic.com) af virkni í TinkerCad.
-3. Myndbönd af virkni úr verklegum tilraunum.
-4. Svör við spurningum.
+
+-->
 
 -->
 
