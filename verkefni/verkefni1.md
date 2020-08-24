@@ -2,6 +2,8 @@
 - Námsmat: 10%
 - Tími: 2 vikur
 
+---
+
 - Gerðu eftirfarandi verkefni (e. tutorials):
   - Settu upp verklega með brauðbretti og íhlutum
   - Svaraðu spurningum þar sem það á við.
@@ -49,6 +51,7 @@
 11. Ultrasonic Distance Sensor 
     1. _Make a proximity alarm by adding a piezo buzzer that turns on when all three LEDs are lit up (closest distance)._
 
+---
 
 ## Námsmat og skil
 Gefið er heilt fyrir fullnægjandi lausn og svör, hálft ef ábótavant eða svör vanta.
