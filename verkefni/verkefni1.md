@@ -31,7 +31,7 @@
 **TinkerCad Projects** _https://www.tinkercad.com/learn/circuits/projects_
 
 6. Pushbutton (Digital Input) 
-   1. _Breyttu kóðanum þannig að með að ýta á takkann þá ser slökkt á LED ljósi sem myndi annars lýsa stöðugt._
+   1. _Breyttu kóðanum þannig að með að ýta á takkann þá er slökkt á LED ljósi sem myndi annars lýsa stöðugt._
 
 7. Potentiometer (Analog Input) 
    1. _Instead of using the sensorValue to affect timing, can you figure out a way to make it affect the LED's brightness instead?_
