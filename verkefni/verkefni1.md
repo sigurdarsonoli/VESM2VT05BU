@@ -16,7 +16,7 @@
    1. Hver er munurinn á digtial og analog input pinnum?
    1. Hjá sumum digital pinnum er tilda merki (~) fyrir PWM. Hvað er e. Pulse Width Modulation (PWM) og fyrir hvað er það notað?
 
-**Kóði: Halló heimur**
+**Halló heimur kóði**
 
 2. [Ladyada´s lesson 1: Blikkandi ljós, Halló heimur ](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-1) 
 
