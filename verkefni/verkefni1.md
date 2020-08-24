@@ -1,12 +1,11 @@
 # Verkefni 1 
 - Námsmat: 10%
 - Tími: 2 vikur
-
----
-
 - Gerðu eftirfarandi verkefni (e. tutorials):
   - Settu upp verklega með brauðbretti og íhlutum
   - Svaraðu spurningum þar sem það á við.
+
+---
 
 **Hardware**
 
