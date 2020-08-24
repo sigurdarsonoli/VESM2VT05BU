@@ -1,4 +1,4 @@
-# Verkefni 1 **Í vinnslu**
+# Verkefni 1 
 - Námsmat: 10%
 - Tími: 2 vikur
 
