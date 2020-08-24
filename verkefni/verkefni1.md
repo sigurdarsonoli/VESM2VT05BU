@@ -14,7 +14,7 @@
    1. Hver er munurinn á digtial og analog input pinnum?
    1. Hjá sumum digital pinnum er tilda merki (~) fyrir PWM. Hvað er e. Pulse Width Modulation (PWM) og fyrir hvað er það notað?
 
-**Halló heimur**
+**Kóði: Halló heimur **
 
 2. [Ladyada´s lesson 1: Blikkandi ljós, Halló heimur ](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-1) 
 
@@ -40,8 +40,9 @@
    1. _Hvað þýðir 9600 baud í Serial.begin(9600) og hvað gerist ef þú breytir gildinu?_
    
 9. PIR Motion Sensor (Digital Input)
+   1. _skólinn á nokkra PIR skynjara til að vinna með_
    1. _Try swapping out your PIR motion sensor for other digital inputs such as a pushbutton or tilt switch._
-   
+    
 10. Photoresistor (Analog Input) 
 
 11. Ultrasonic Distance Sensor 
