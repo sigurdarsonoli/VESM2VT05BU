@@ -2,7 +2,8 @@
 - Námsmat: 10%
 - Tími: 2 vikur
 - Gerðu eftirfarandi verkefni (e. tutorials):
-  - Settu upp verklega með brauðbretti og íhlutum
+  - Settu upp verklega með brauðbretti og íhlutum, 
+  - Taktu upp virknina með myndbandi
   - Svaraðu spurningum þar sem það á við.
 
 ---
