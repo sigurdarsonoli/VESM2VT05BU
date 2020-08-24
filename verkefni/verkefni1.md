@@ -41,7 +41,6 @@
    1. _Hvað þýðir 9600 baud í Serial.begin(9600) og hvað gerist ef þú breytir gildinu?_
    
 9. PIR Motion Sensor (Digital Input)
-   1. _Can you replace the LED with a servo motor, and code up a program to wave the servo when the sensor is triggered?_
    1. _Try swapping out your PIR motion sensor for other digital inputs such as a pushbutton or tilt switch._
    
 10. Photoresistor (Analog Input) 
@@ -55,22 +54,13 @@ Gefið er heilt fyrir fullnægjandi lausn og svör, hálft ef ábótavant eða s
 Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
 
 - Myndbönd af virkni úr verklegum tilraunum.
-- kóði. 
+- kóðalausnir. 
 - Svör við spurningum.
 
 -->
 
-<!--
-
-- Settu upp í TinkerCad 
-1. TinkerCad tengla á lausnir (muna að hafa public).
-2. [Skjámyndbandsupptöku](https://screencast-o-matic.com) af virkni í TinkerCad.
 
 
 
-Ekki Haust 2020
-1. Project 6: Light Theremin (hátalari og ljósviðnám) 
-1. [Project 13: Touchy-Feely Lamp (snertiskynjari með álpappír)](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ;collectionId=OMOZACHJ9IR8LRE)
 
--->
 
