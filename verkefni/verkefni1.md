@@ -30,8 +30,8 @@
    Svaraðu eftirfarandi spurningum:
 
      1. Hvaða gagnlegar upplýsingar veitir Forward Voltage okkur í Datasheet fyrir LEDs?
-     1. Væntanlegt
-     1. Væntanlegt
+     1. Útskýrðu KVL lögmálið með dæmi.
+     1. Útskýrðu Ohms lögmálið með dæmi.
      
 4. [Ladyada´s lesson 2: LEDs (viðnám, leds og brauðbretti)](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/overview)
 
