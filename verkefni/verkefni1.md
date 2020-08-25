@@ -12,11 +12,11 @@
 
 1. [Ladyada´s lesson 0: Vélbúnaður](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0) 
 
-Svaraðu eftirfarandi spurningum:
+  Svaraðu eftirfarandi spurningum:
 
-   1. Að hvaða leyti er gagnapinni 13 sérstakur í Arduino Uno?
-   1. Hver er munurinn á digtial og analog input pinnum?
-   1. Hjá sumum digital pinnum er tilda merki (~) fyrir PWM. Hvað er e. Pulse Width Modulation (PWM) og fyrir hvað er það notað?
+     1. Að hvaða leyti er gagnapinni 13 sérstakur í Arduino Uno?
+     1. Hver er munurinn á digtial og analog input pinnum?
+     1. Hjá sumum digital pinnum er tilda merki (~) fyrir PWM. Hvað er e. Pulse Width Modulation (PWM) og fyrir hvað er það notað?
 
 **Halló heimur kóði**
 
