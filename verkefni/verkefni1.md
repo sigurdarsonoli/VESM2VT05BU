@@ -35,7 +35,7 @@
      
 4. [Ladyada´s lesson 2: LEDs (viðnám, leds og brauðbretti)](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/overview)
 
-5. [Ladyada´s lesson 3: RGB LEDs, PWM og HEX](https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds)
+5. [Ladyada´s lesson 3: RGB LEDs, PWM, RGB og HEX](https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds)
 
 
 ---
