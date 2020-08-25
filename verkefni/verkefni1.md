@@ -29,7 +29,7 @@
  
    Svaraðu eftirfarandi spurningum:
 
-     1. Væntanlegt
+     1. Hvaða gagnlegar upplýsingar veitir Forward Voltage okkur í Datasheet fyrir LEDs?
      1. Væntanlegt
      1. Væntanlegt
      
