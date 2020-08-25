@@ -10,7 +10,9 @@
 
 **Hardware**
 
-1. [Ladyada´s lesson 0: Vélbúnaður](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0) og svaraðu eftirfarandi spurningum:
+1. [Ladyada´s lesson 0: Vélbúnaður](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0) 
+
+Svaraðu eftirfarandi spurningum:
 
    1. Að hvaða leyti er gagnapinni 13 sérstakur í Arduino Uno?
    1. Hver er munurinn á digtial og analog input pinnum?
