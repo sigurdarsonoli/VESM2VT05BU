@@ -3,7 +3,7 @@
 - Tími: 2 vikur
 - Gerðu eftirfarandi verkefni (e. tutorials):
   - Settu upp verklega með brauðbretti og íhlutum, 
-  - Taktu upp virknina með myndbandi
+  - Taktu upp notkun og virkni með myndbandi
   - Svaraðu spurningum þar sem það á við.
 
 ---
