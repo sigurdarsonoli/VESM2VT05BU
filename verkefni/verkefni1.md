@@ -26,7 +26,13 @@
 **LEDs**
 
 3. [Lestu: All About LEDs (KVL og Ohm'slögmál, að lesa datasheets)](https://learn.adafruit.com/all-about-leds/overview))
+ 
+   Svaraðu eftirfarandi spurningum:
 
+     1. Væntanlegt
+     1. Væntanlegt
+     1. Væntanlegt
+     
 4. [Ladyada´s lesson 2: LEDs (viðnám, leds og brauðbretti)](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/overview)
 
 5. [Ladyada´s lesson 3: RGB LEDs, PWM og HEX](https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds)
