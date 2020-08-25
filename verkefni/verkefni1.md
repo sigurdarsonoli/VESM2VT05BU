@@ -51,7 +51,7 @@
 8. Using the Serial Monitor
    1. _Hvað þýðir 9600 baud í Serial.begin(9600) og hvað gerist ef þú breytir gildinu?_
    
-9. PIR Motion Sensor (Digital Input) _skólinn á nokkra PIR skynjara til að vinna með_
+9. PIR Motion Sensor (Digital Input) - _skólinn á nokkra PIR skynjara sem þú getur notað_
    1. _Try swapping out your PIR motion sensor for other digital inputs such as a pushbutton or tilt switch._
     
 10. Photoresistor (Analog Input) 
