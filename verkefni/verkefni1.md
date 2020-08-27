@@ -2,9 +2,10 @@
 - Námsmat: 10%
 - Tími: 2 vikur
 - Gerðu eftirfarandi verkefni (e. tutorials):
-  - Settu upp verklega með brauðbretti og íhlutum, 
-  - Taktu upp notkun og virkni með myndbandi
-  - Svaraðu spurningum þar sem það á við.
+  - Notaðu Arduino IDE forritið í tölvunni þinni til að skrifa kóða.
+  - Settu upp öll verkefni verklega með brauðbretti og íhlutum.
+  - Taktu upp notkun og virkni með myndbandi (hafið blaðsnepil með nafninu þínu á myndbandi) og vistaðu á youtube.
+  - Svaraðu spurningum þar sem það á við (liður 1 og  liður 3).
 
 ---
 
@@ -42,7 +43,8 @@
 
 **TinkerCad Projects** _https://www.tinkercad.com/learn/circuits/projects_  
 
-Skrollaðu aðeins niður og smelltu á **Show all Arduino** hnappinn
+- Skrollaðu aðeins niður og smelltu á **Show all Arduino** hnappinn til að sjá  Arduino tutorials
+- Fylgið eftirfarandi tutorials en verklega í höndunum (ekki í TinkerCad):
 
 6. Pushbutton (Digital Input) 
    1. _Breyttu kóðanum þannig að með að ýta á takkann þá er slökkt á LED ljósi sem myndi annars lýsa stöðugt._
@@ -55,7 +57,8 @@ Skrollaðu aðeins niður og smelltu á **Show all Arduino** hnappinn
    
 9. PIR Motion Sensor (Digital Input) - _skólinn á nokkra PIR skynjara sem þú getur notað_
    1. _Try swapping out your PIR motion sensor for other digital inputs such as a pushbutton or tilt switch._
-   1. Nánar um [PIR](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview)
+   1. Nánari upplýsingar um [PIR](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview)
+   
 10. Photoresistor (Analog Input) 
 
 11. Ultrasonic Distance Sensor 
@@ -64,7 +67,8 @@ Skrollaðu aðeins niður og smelltu á **Show all Arduino** hnappinn
 ---
 
 ## Námsmat og skil
-Gefið er heilt fyrir fullnægjandi lausn og svör, hálft ef ábótavant eða svör vanta.
+Gefið er heillt fyrir fullnægjandi lausn og svör, hálft ef ábótavant eða svör vanta.
+
 Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
 
 - Tengla á myndbönd (youtube) af virkni úr verklegum tilraunum (hafið blaðsnepil með nafninu þínu á myndbandi)
