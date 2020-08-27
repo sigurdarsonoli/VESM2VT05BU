@@ -53,7 +53,7 @@
    
 9. PIR Motion Sensor (Digital Input) - _skólinn á nokkra PIR skynjara sem þú getur notað_
    1. _Try swapping out your PIR motion sensor for other digital inputs such as a pushbutton or tilt switch._
-    
+   1. Nánar um [PIR](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview)
 10. Photoresistor (Analog Input) 
 
 11. Ultrasonic Distance Sensor 
@@ -65,7 +65,7 @@
 Gefið er heilt fyrir fullnægjandi lausn og svör, hálft ef ábótavant eða svör vanta.
 Skilaðu á Innu vefslóð á Github wiki vefsíðu sem inniheldur:
 
-- Myndbönd af virkni úr verklegum tilraunum.
+- Tengla á myndbönd (youtube) af virkni úr verklegum tilraunum (hafið blaðsnepil með nafninu þínu á myndbandi)
 - kóðalausnir. 
 - Svör við spurningum.
 
