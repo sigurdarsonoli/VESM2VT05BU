@@ -40,7 +40,9 @@
 
 ---
 
-**TinkerCad Projects** _https://www.tinkercad.com/learn/circuits/projects_  Skrollaðu aðeins niður og smelltu á **Show all Arduino** hnappinn
+**TinkerCad Projects** _https://www.tinkercad.com/learn/circuits/projects_  
+
+Skrollaðu aðeins niður og smelltu á **Show all Arduino** hnappinn
 
 6. Pushbutton (Digital Input) 
    1. _Breyttu kóðanum þannig að með að ýta á takkann þá er slökkt á LED ljósi sem myndi annars lýsa stöðugt._
