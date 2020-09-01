@@ -26,7 +26,7 @@
   
 **LEDs**
 
-3. [All About LEDs (KVL og Ohm'slögmál, að lesa datasheets)](https://learn.adafruit.com/all-about-leds/overview))
+3. [All About LEDs (KVL og Ohm's lögmál, að lesa datasheets)](https://learn.adafruit.com/all-about-leds/overview))
  
    Svaraðu eftirfarandi spurningum:
 
