@@ -16,7 +16,7 @@
 1. [LCD1602 (þarf að lóða)](https://www.arduino.cc/en/Tutorial/HelloWorld)
    - Breyttu kóðanum þannig að nafnið þitt birtist á skjánum.
    - Breyttu kóðanum þannig að nafnið þitt birtist í efri línunni á skjánum, einn stafur í einu. Í neðri línunni á að standa **Tolvubraut**.
-   ![LCD](../Myndir/lcd_verkefni2.gif)
+   ![LCD](https://github.com/GunnarThorunnarson/VESM2VT05BU/blob/master/Myndir/lcd_verkefni2.gif)
 
 1. [Stýripinni (e. joystick)](../Kodi/styripinni.ino), sjá efst í skjalinu hvernig á að tengja stýripinnan við Arduino
    - Hvaða gildi gefur stýripinninn þegar ýtt er lengst til vinstri?
