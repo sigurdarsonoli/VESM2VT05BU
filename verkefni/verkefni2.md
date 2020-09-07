@@ -1,4 +1,4 @@
-# Verkefni 2 
+# Verkefni 2 - _drög_
 - Námsmat: 10%
 - Tími: 2 vikur
 
